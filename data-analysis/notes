@@ -1,0 +1,5 @@
+python3 -m http.server #open web server for viewing html file in gitpod
+matplotlib version = 3.4.0
+
+#ydata-profiling have a lot of dependency error and taking some time to run for larger size file.
+#DataProfiler having issues on pip install
