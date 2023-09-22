@@ -3,3 +3,6 @@ matplotlib version = 3.4.0
 
 #ydata-profiling have a lot of dependency error and taking some time to run for larger size file.
 #DataProfiler having issues on pip install
+
+#Panda 2.0 have support arrow engine (engine='pyarrow', dtype_backend='pyarrow')
+#for faster performance
